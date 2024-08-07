@@ -36,5 +36,5 @@ sudo chmod +x app.sh
 # features:
 this tool will collect subdomain like any tool but here's the difference:
 1) collect all subdomains and subs-subdomains in output like that : *.sub.domain.com
-2) recursion finding subdomains for every *subdomain.com
+2) recursion finding subdomains for every *.subdomain.com
 3) huge number of subdomain without conflict names output
