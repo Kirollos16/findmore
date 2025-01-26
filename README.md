@@ -31,7 +31,7 @@ sudo pip install -r requirements.txt
 # usage :
 ```
 sudo chmod +x app.sh
-./app.sh domain.com
+./findmore.sh domain.com
 ```
 # features:
 this tool will collect subdomain like any tool but here's the difference:
