@@ -11,7 +11,7 @@ uline="\e[4m"
 bold="\e[1m"
 
 echo -e "${uline}${blod}${blue}${expand_bg}"
-figlet "FindMore"      
+npx oh-my-logo "FindMore" nebula --filled
 echo -e "${reset}"
 echo -e "${blue}${bold}A Comprehensive tool for collection subdomain!${reset}"
 
